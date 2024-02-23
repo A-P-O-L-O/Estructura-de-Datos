@@ -1,4 +1,4 @@
-package PQ;
+package PQ.Pilas_Colas;
 
 import java.util.Stack;
 
