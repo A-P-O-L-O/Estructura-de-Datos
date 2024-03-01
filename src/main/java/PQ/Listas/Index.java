@@ -19,6 +19,6 @@ public class Index {
 
 
         System.out.println("LA LISTA CONTIENE EL NUMERO  35?: " + lista.contener(35));
-        
+
     }
 }
